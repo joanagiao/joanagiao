@@ -13,7 +13,7 @@
 > "Simplicidade é o último grau de sofisticação."  
 > — Leonardo da Vinci
 
-Curioso por natureza, apaixonado por tecnologia e sempre à procura de criar coisas que funcionam (e fiquem bonitas também).
+Curiosa por natureza, apaixonada por tecnologia e sempre à procura de criar coisas que funcionam (e fiquem bonitas também).
 
 ---
 
@@ -33,6 +33,27 @@ Curioso por natureza, apaixonado por tecnologia e sempre à procura de criar coi
 📌 HTML/CSS     ▓▓▓▓▓▓░░░░
 📌 JavaScript   ▓▓▓▓░░░░░░
 📌 SQL          ▓▓▓░░░░░░░
+```
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=joanagiao&show_icons=true&theme=radical" width="400"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&layout=compact&theme=radical" width="320"/> </p>
+---
 
+## 🌱 A crescer em...
+
+- Sistemas digitais
+- Desenvolvimento web
+- Automatização com scripts
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=joanagiao&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&layout=compact&theme=radical" width="320"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
