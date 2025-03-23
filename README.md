@@ -46,6 +46,11 @@
 
 - [x] Hello World
 ---
+## Spotify
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+---
 
 <p align="center">
   <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
