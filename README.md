@@ -48,12 +48,12 @@
 ---
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
-<p align="center">
+
 ![Word Count](https://img.shields.io/badge/words_written-32768-purple?style=for-the-badge&logo=markdown)
 https://img.shields.io/badge/lines_of_code-195384-blue?style=flat-square
 https://img.shields.io/badge/repos-7_active-green?style=flat-square
 https://img.shields.io/badge/commits-today_3-ff69b4?style=flat-square
-</p>
+
 <p align="center">
   <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
   <img src="https://media1.tenor.com/m/DyhuhVTiOXcAAAAd/boa-noite-sporting-sporting.gif" alt="gyo" height="200"/>
