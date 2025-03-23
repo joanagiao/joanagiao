@@ -37,6 +37,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&layout=compact&theme=radical" width="320"/>
 </p>
 
+<p align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Ffifacardcreators%2Fcomments%2F1fnopzz%2Fthe_goat_cristiano_ronaldos_icon_card_rate_10_for%2F&psig=AOvVaw0erf1ZTCMW_XwppIiTyH23&ust=1742781466540000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiZ6IKNn4wDFQAAAAAdAAAAABAE" alt="cris" height="200"/>
+</p>
+
 ---
 
 <p align="center">
