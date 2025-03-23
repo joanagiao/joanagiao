@@ -22,7 +22,6 @@
 ---
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/AjaofTgbA38AAAAC/cat-eyebrow-raise.gif" alt="gato" height="200"/>
   <img src="https://cataas.com/cat/funny/says/vamossss?size=50&color=purple" alt="Funny Cat" height="200"/>
   <img src="https://media1.tenor.com/m/gVYo8e3qHuEAAAAC/villager-minecraft.gif" alt="minecraft" height="200"/>
 </p>
