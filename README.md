@@ -47,9 +47,7 @@
 - [x] Hello World
 ---
 ## Spotify
-<p align="center">
-  <img src="[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)" alt="spotify"/>
-</p>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 
 <p align="center">
