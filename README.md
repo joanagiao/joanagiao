@@ -27,6 +27,10 @@
   <img src="https://media1.tenor.com/m/gVYo8e3qHuEAAAAC/villager-minecraft.gif" alt="minecraft" height="200"/>
 </p>
 
+<p align="center">
+  <img src="https://cataas.com/cat/says/'o%20código%20é%20arte'" alt="Philosophical Cat" height="200"/>
+</p>
+
 ---
 
 ## 📊 Stats
