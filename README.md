@@ -16,6 +16,7 @@
 > — Joana Gião
 
 <p align="center">
+  <img src="https://media1.tenor.com/m/AjaofTgbA38AAAAC/cat-eyebrow-raise.gif" alt="gato" height="200"/>
   <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/01/the-office-michael-scott.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5" alt="Cat saying hi" height="200"/>
 </p>
 
