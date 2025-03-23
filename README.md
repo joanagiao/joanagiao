@@ -38,7 +38,7 @@
 </p>
 
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Ffifacardcreators%2Fcomments%2F1fnopzz%2Fthe_goat_cristiano_ronaldos_icon_card_rate_10_for%2F&psig=AOvVaw0erf1ZTCMW_XwppIiTyH23&ust=1742781466540000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKiZ6IKNn4wDFQAAAAAdAAAAABAE" alt="cris" height="200"/>
+  <img src="https://preview.redd.it/the-goat-cristiano-ronaldos-icon-card-rate-10-for-me-v0-r5wsqw6r5lqd1.png?width=1080&crop=smart&auto=webp&s=02f53f09e7d3bd04c52c0a108264de2613d59041" alt="cris" height="200"/>
 </p>
 
 ---
