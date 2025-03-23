@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cataas.com/cat/says/hi?size=50&color=blue" alt="Cat saying hi" height="200"/>
+  <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/01/the-office-michael-scott.jpg?q=50&fit=crop&w=1140&h=&dpr=1.5" alt="Cat saying hi" height="200"/>
 </p>
 
 ---
