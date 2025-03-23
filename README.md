@@ -1,4 +1,4 @@
-<h1 align="center">✨ Bem-vindo ao meu GitHub ✨</h1>
+<h1 align="center">Olá ✨ Bem-vindo ao meu GitHub ✨</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/code-clean-blue?style=flat-square"/>
@@ -6,16 +6,26 @@
   <img src="https://img.shields.io/badge/focus-learning-purple?style=flat-square"/>
 </p>
 
+<p align="center">
+  <img src="https://cataas.com/cat/says/hi?size=50&color=blue" alt="Cat saying hi" height="200"/>
+</p>
+
 ---
 
-> “You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott
+> “You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott  
 > — Joana Gião
+
+---
 
 ## 📂 Repositórios em destaque
 
 🔹 Organização.  
 🔹 Clareza.  
 🔹 Código que explica a si próprio.
+
+<p align="center">
+  <img src="https://cataas.com/cat/cute/says/organização?size=50&color=green" alt="Cute Cat" height="200"/>
+</p>
 
 ---
 
@@ -24,6 +34,10 @@
 - Sistemas digitais
 - Desenvolvimento web
 - Automatização com scripts
+
+<p align="center">
+  <img src="https://cataas.com/cat/funny/says/vamossss?size=50&color=purple" alt="Funny Cat" height="200"/>
+</p>
 
 ---
 
@@ -37,5 +51,7 @@
 ---
 
 <p align="center">
+  <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
+  <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>
