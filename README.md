@@ -53,6 +53,7 @@
 ![Lines of Code](https://img.shields.io/badge/lines_of_code-195384-blue?style=for-the-badge&logo=codefactor)
 ![Repos](https://img.shields.io/badge/repos-7_active-green?style=for-the-badge&logo=github)
 ![Commits Today](https://img.shields.io/badge/commits-today_3-ff69b4?style=for-the-badge&logo=git)
+![Mood](https://img.shields.io/badge/mood-chaotic_good-yellow?style=for-the-badge&logo=magic-the-gathering)
 
 
 <p align="center">
