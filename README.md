@@ -6,6 +6,10 @@
   <img src="https://img.shields.io/badge/focus-learning-purple?style=flat-square"/>
 </p>
 
+<p align="center">
+  <img src="https://media1.tenor.com/m/cJRcMyUAiMcAAAAd/ah-shit-here-we-go-again-ah-shit.gif" alt="Cat saying hi" height="200"/>
+</p>
+
 ---
 
 > “You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott  
