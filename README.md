@@ -63,6 +63,9 @@
 ![Feature Flags](https://img.shields.io/badge/feature_flags-yes-00CED1?style=for-the-badge&logo=flask)
 ![Debug Mode](https://img.shields.io/badge/debug-on-yellowgreen?style=for-the-badge&logo=bugsnag)
 ![Beta Tester](https://img.shields.io/badge/beta-tester-lightblue?style=for-the-badge&logo=beaker)
+![Repos Watched](https://img.shields.io/badge/repos_watched-∞-pink?style=for-the-badge&logo=github)
+![Stargazer](https://img.shields.io/badge/stargazer-mode_on-white?style=for-the-badge&logo=starship)
+![GitHub Karma](https://img.shields.io/badge/karma-+42-fafafa?style=for-the-badge&logo=github)
 
 
 
