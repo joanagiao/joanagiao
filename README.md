@@ -48,6 +48,7 @@
 ---
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
+![Word Count](https://img.shields.io/badge/words_written-32768-purple?style=for-the-badge&logo=markdown)
 
 <p align="center">
   <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
