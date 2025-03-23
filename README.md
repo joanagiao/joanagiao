@@ -60,6 +60,10 @@
 ![Repos](https://img.shields.io/badge/repos-7_active-green?style=for-the-badge&logo=github)
 ![Commits Today](https://img.shields.io/badge/commits-today_3-ff69b4?style=for-the-badge&logo=git)
 ![Mood](https://img.shields.io/badge/mood-chaotic_good-yellow?style=for-the-badge&logo=magic-the-gathering)
+![Feature Flags](https://img.shields.io/badge/feature_flags-yes-00CED1?style=for-the-badge&logo=flask)
+![Debug Mode](https://img.shields.io/badge/debug-on-yellowgreen?style=for-the-badge&logo=bugsnag)
+![Beta Tester](https://img.shields.io/badge/beta-tester-lightblue?style=for-the-badge&logo=beaker)
+
 
 
 <p align="center">
