@@ -49,9 +49,9 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 ---
 ![Word Count](https://img.shields.io/badge/words_written-32768-purple?style=for-the-badge&logo=markdown)
-<img src="https://img.shields.io/badge/github-vibes_only-ff69b4?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/push--force-enabled-critical?style=flat-square" />
-<img src="https://img.shields.io/badge/merge_conflict-💥_always-e60000?style=flat-square" />
+<img src="https://img.shields.io/badge/lines_of_code-195384-blue?style=flat-square" />
+<img src="https://img.shields.io/badge/repos-7_active-green?style=flat-square" />
+<img src="https://img.shields.io/badge/commits-today_3-ff69b4?style=flat-square" />
 
 <p align="center">
   <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
