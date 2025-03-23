@@ -27,10 +27,6 @@
   <img src="https://media1.tenor.com/m/gVYo8e3qHuEAAAAC/villager-minecraft.gif" alt="minecraft" height="200"/>
 </p>
 
-<p align="center">
-  <img src="https://cataas.com/cat/says/'o%20código%20é%20arte'" alt="Philosophical Cat" height="200"/>
-</p>
-
 ---
 
 ## 📊 Stats
@@ -42,6 +38,7 @@
 
 <p align="center">
   <img src="https://preview.redd.it/the-goat-cristiano-ronaldos-icon-card-rate-10-for-me-v0-r5wsqw6r5lqd1.png?width=1080&crop=smart&auto=webp&s=02f53f09e7d3bd04c52c0a108264de2613d59041" alt="cris" height="200"/>
+  <img src="https://cataas.com/cat/says/'o%20código%20é%20arte'" alt="Philosophical Cat" height="200"/>
 </p>
 
 ---
