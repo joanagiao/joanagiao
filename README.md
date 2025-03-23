@@ -17,13 +17,6 @@
 
 ---
 
-
-<p align="center">
-  <img src="https://cataas.com/cat/cute/says/organização?size=50&color=green" alt="Cute Cat" height="200"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://cataas.com/cat/funny/says/vamossss?size=50&color=purple" alt="Funny Cat" height="200"/>
 </p>
