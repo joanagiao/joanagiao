@@ -46,7 +46,11 @@
 
 - [x] Hello World
 ---
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="Spotify Now Playing" />
+  </a>
+</p>
 ---
 
 ![Word Count](https://img.shields.io/badge/words_written-32768-purple?style=for-the-badge&logo=markdown)
