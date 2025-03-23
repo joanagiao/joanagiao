@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Van7Sfxc5MIAAAAd/gta-san-andreas-gta.gif" alt="Cat saying hi" height="200"/>
+  <img src="https://media1.tenor.com/m/qRw9Rz-3XFYAAAAC/pep.gif" alt="Cat saying hi" height="200"/>
 </p>
 
 ---
