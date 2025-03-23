@@ -63,6 +63,8 @@
 ![Repos Watched](https://img.shields.io/badge/repos_watched-∞-pink?style=for-the-badge&logo=github)
 ![Stargazer](https://img.shields.io/badge/stargazer-mode_on-white?style=for-the-badge&logo=starship)
 
+![Visualizações](https://img.shields.io/github/views/joanagiao/joanagiao?color=blue)
+
 <p align="center">
   <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
   <img src="https://media1.tenor.com/m/DyhuhVTiOXcAAAAd/boa-noite-sporting-sporting.gif" alt="gyo" height="200"/>
