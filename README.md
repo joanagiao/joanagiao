@@ -62,7 +62,7 @@
 ![Mood](https://img.shields.io/badge/mood-chaotic_good-yellow?style=for-the-badge&logo=magic-the-gathering)
 ![XP](https://img.shields.io/badge/xp-farming_24/7-5e60ce?style=for-the-badge&logo=rpg)
 ![Quest Status](https://img.shields.io/badge/quest-fix_that_bug!-f77f00?style=for-the-badge&logo=dragon)
-![Tests](https://img.shields.io/badge/tests-some_passed-yellow?style=for-the-badge&logo=pytest)
+![Java](https://img.shields.io/badge/java-is_killing_me-b72b2b?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Repos Watched](https://img.shields.io/badge/repos_watched-∞-pink?style=for-the-badge&logo=github)
 ![Stargazer](https://img.shields.io/badge/stargazer-mode_on-white?style=for-the-badge&logo=starship)
 
