@@ -50,9 +50,10 @@
 ---
 
 ![Word Count](https://img.shields.io/badge/words_written-32768-purple?style=for-the-badge&logo=markdown)
-https://img.shields.io/badge/lines_of_code-195384-blue?style=flat-square
-https://img.shields.io/badge/repos-7_active-green?style=flat-square
-https://img.shields.io/badge/commits-today_3-ff69b4?style=flat-square
+![Lines of Code](https://img.shields.io/badge/lines_of_code-195384-blue?style=for-the-badge&logo=codefactor)
+![Repos](https://img.shields.io/badge/repos-7_active-green?style=for-the-badge&logo=github)
+![Commits Today](https://img.shields.io/badge/commits-today_3-ff69b4?style=for-the-badge&logo=git)
+
 
 <p align="center">
   <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
