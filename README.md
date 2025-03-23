@@ -42,6 +42,10 @@
 </p>
 
 ---
+## Metas
+
+- [x] Hello World
+---
 
 <p align="center">
   <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
