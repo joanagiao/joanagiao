@@ -8,32 +8,14 @@
 
 ---
 
-## 🧠 Sobre mim
-
-> "Simplicidade é o último grau de sofisticação."  
-> — Leonardo da Vinci
-
-Curiosa por natureza, apaixonada por tecnologia e sempre à procura de criar coisas que funcionam (e fiquem bonitas também).
-
----
+> “You miss 100% of the shots you don’t take. - Wayne Gretzky” - Michael Scott
+> — Joana Gião
 
 ## 📂 Repositórios em destaque
 
 🔹 Organização.  
 🔹 Clareza.  
 🔹 Código que explica a si próprio.
-
----
-
-## 🛠️ Tech Stack
-
-```text
-📌 VHDL         ▓▓▓▓▓▓▓▓▓░
-📌 Python       ▓▓▓▓▓▓▓▓░░
-📌 HTML/CSS     ▓▓▓▓▓▓░░░░
-📌 JavaScript   ▓▓▓▓░░░░░░
-📌 SQL          ▓▓▓░░░░░░░
-```
 
 ---
 
