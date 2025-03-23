@@ -62,7 +62,6 @@
 ![XP](https://img.shields.io/badge/xp-farming_24/7-5e60ce?style=for-the-badge&logo=rpg)
 ![Repos Watched](https://img.shields.io/badge/repos_watched-∞-pink?style=for-the-badge&logo=github)
 ![Stargazer](https://img.shields.io/badge/stargazer-mode_on-white?style=for-the-badge&logo=starship)
-![Views](https://komarev.com/ghpvc/?username=joanagiao)
 
 <p align="center">
   <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
