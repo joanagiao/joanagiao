@@ -27,7 +27,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joanagiao&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&layout=compact&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width="320"/>
 </p>
 
 ---
