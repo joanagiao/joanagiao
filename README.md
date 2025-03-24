@@ -1,6 +1,10 @@
 <h1 align="center">Olá ✨ Bem-vindo ao meu GitHub ✨</h1>
 
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=header&text=✨%20Bem-vinda,%20Joana!%20✨&fontColor=ffffff&fontSize=30&animation=fadeIn" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/code-clean-blue?style=flat-square"/>
   <img src="https://img.shields.io/badge/style-minimalist-green?style=flat-square"/>
   <img src="https://img.shields.io/badge/focus-learning-purple?style=flat-square"/>
