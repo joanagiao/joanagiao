@@ -27,7 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joanagiao&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&layout=compact&theme=radical" width="320"/>
 </p>
 
 <p align="center">
