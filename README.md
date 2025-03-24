@@ -30,10 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&layout=compact&theme=radical" width="320"/>
 </p>
 
-<p align="center">
-  <img src="https://preview.redd.it/the-goat-cristiano-ronaldos-icon-card-rate-10-for-me-v0-r5wsqw6r5lqd1.png?width=1080&crop=smart&auto=webp&s=02f53f09e7d3bd04c52c0a108264de2613d59041" alt="cris" height="200"/>
-</p>
-
 ---
 
 ## Metas
