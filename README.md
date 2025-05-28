@@ -58,7 +58,6 @@
 </p>
 
 <p align="center">
-  <img src="https://cataas.com/cat/says/bye?size=50&color=orange" alt="Cat saying bye" height="200"/>
   <img src="https://media1.tenor.com/m/DyhuhVTiOXcAAAAd/boa-noite-sporting-sporting.gif" alt="gyo" height="200"/>
   <br/>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
