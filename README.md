@@ -8,7 +8,7 @@
 
 ---
 
-### 🌸 about me
+### quotes
 
 > *“You miss 100% of the shots you don’t take.”*  
 > — Wayne Gretzky  
@@ -21,30 +21,14 @@
 
 ---
 
-### 🎯 goals
+### goals
 
 - [x] hello world  
 
 
 ---
-### github stats
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=joanagiao&show_icons=true&theme=catppuccin_latte&hide_border=true&cache_seconds=1800"
-    height="165"
-  />
-</p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&layout=compact&theme=catppuccin_latte&hide_border=true&cache_seconds=1800"
-    height="140"
-  />
-</p>
-
----
-
-### 🎧 now playing
+### 🎧
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
