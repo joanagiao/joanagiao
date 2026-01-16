@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F2C6DE&height=90&section=header&text=Olá%20Bem-vindo%20ao%20meu%20Github&fontColor=5E4B56&fontSize=26" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F2C6DE&height=90&section=header&text=Olá%20Bem-vindo%20ao%20meu%20GitHub&fontColor=5E4B56&fontSize=26" />
 </p>
 
 <p align="center">
@@ -7,8 +7,6 @@
 </p>
 
 ---
-
-### quotes
 
 > *“You miss 100% of the shots you don’t take.”*  
 > — Wayne Gretzky  
@@ -21,7 +19,7 @@
 
 ---
 
-### goals
+### Metas
 
 - [x] hello world  
 
