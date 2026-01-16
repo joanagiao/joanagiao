@@ -25,6 +25,21 @@
 
 - [x] hello world  
 
+
+---
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=joanagiao&show_icons=true&theme=catppuccin_latte&hide_border=true&cache_seconds=1800"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&layout=compact&theme=catppuccin_latte&hide_border=true&cache_seconds=1800"
+    height="140"
+  />
+</p>
 ---
 
 ### 🎧 now playing
