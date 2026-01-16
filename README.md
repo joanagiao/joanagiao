@@ -55,30 +55,6 @@
 
 ---
 
-### 📈 Fun Stats
-
-<p align="center">
-  <img src="https://img.shields.io/badge/words_written-32768-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/lines_of_code-195384-blue?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/repos-7_active-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/commits_today-3-ff69b4?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/mood-chaotic_good-yellow?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/xp-farming_24/7-5e60ce?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/repos_watched-∞-pink?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/stargazer-mode_on-white?style=for-the-badge"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=joanagiao&style=for-the-badge&color=ff69b4"/>
 </p>
