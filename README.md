@@ -1,66 +1,54 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=4C274D&height=90&section=header&text=Olá%20✨%20Bem-vindo%20ao%20meu%20GitHub!%20✨&fontColor=FFFFFF&fontSize=28&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F2C6DE&height=90&section=header&text=olá%20🌷%20bem-vindo%20ao%20meu%20cantinho%20no%20github&fontColor=5E4B56&fontSize=26" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/clean_code-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/minimalist-green?style=flat-square"/>
-  <img src="https://img.shields.io/badge/learning-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/soft_dev-🎀-f2c6de?style=flat-square"/>
+  <img src="https://img.shields.io/badge/learning-🌱-cdb4db?style=flat-square"/>
+  <img src="https://img.shields.io/badge/clean_code-☁️-bde0fe?style=flat-square"/>
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/qRw9Rz-3XFYAAAAC/pep.gif" height="180"/>
+  <img src="https://media1.tenor.com/m/qRw9Rz-3XFYAAAAC/pep.gif" height="170"/>
 </p>
 
 ---
 
-### ✨ About
+### 🌸 about me
 
 > *“You miss 100% of the shots you don’t take.”*  
 > — Wayne Gretzky  
 > — Michael Scott  
-> — **Joana Gião**
+> — Joana Gião
 
 <p align="center">
-  <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/01/the-office-michael-scott.jpg?q=50&fit=crop&w=900&dpr=1.5" height="180"/>
+  <img src="https://static1.moviewebimages.com/wordpress/wp-content/uploads/2023/01/the-office-michael-scott.jpg?q=50&fit=crop&w=800&dpr=1.5" height="160"/>
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 🎯 goals
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joanagiao&show_icons=true&theme=radical" width="390"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joanagiao&theme=radical&layout=compact" width="300"/>
-</p>
+- [x] hello world  
 
 ---
 
-### 🎯 Metas
-
-- [x] Hello World  
-
----
-
-### 🎧 Now Playing
+### 🎧 now playing
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&background_color=121212" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=juketts&cover_image=true&theme=default&background_color=1f1b24" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=joanagiao&style=for-the-badge&color=ff69b4"/>
+  <img src="https://komarev.com/ghpvc/?username=joanagiao&style=for-the-badge&color=f2c6de"/>
 </p>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/DyhuhVTiOXcAAAAd/boa-noite-sporting-sporting.gif" height="170"/>
+  <img src="https://media1.tenor.com/m/DyhuhVTiOXcAAAAd/boa-noite-sporting-sporting.gif" height="160"/>
 </p>
 
 <p align="center">
