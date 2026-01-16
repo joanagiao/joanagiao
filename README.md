@@ -1,11 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=F2C6DE&height=90&section=header&text=olá%20🌷%20bem-vindo%20ao%20meu%20cantinho%20no%20github&fontColor=5E4B56&fontSize=26" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/soft_dev-🎀-f2c6de?style=flat-square"/>
-  <img src="https://img.shields.io/badge/learning-🌱-cdb4db?style=flat-square"/>
-  <img src="https://img.shields.io/badge/clean_code-☁️-bde0fe?style=flat-square"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=F2C6DE&height=90&section=header&text=Olá%20Bem-vindo%20ao%20meu%20Github&fontColor=5E4B56&fontSize=26" />
 </p>
 
 <p align="center">
